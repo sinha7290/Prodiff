@@ -1,0 +1,24 @@
+Catalog #	Age 	Gender	Race	Primary Site	Acquisition Site	Clinical Stage Group	Histological Grade	APC	BRAF	KRAS	TP53	PTEN	PIK3CA	# mutated genes	Neoadjuvant therapy	CDX2	PRKAB1	IC50
+PDM-2	68	Male	White	Colon	Sigmoid colon	Stage IVA	GB	yes	no	no	yes	no	no	129	yes	0.000217	0.000156	0
+PDM-4	50	Male	White	Colon	Sigmoid colon	Stage IIIB	G2	yes	no	no	yes	no	no	102	no	0.00023	0.00205	0
+PDM-50	78	Male	White	Colon	Ascending colon	Stage IIIB	G3	no	no	no	no	no	no	0	no	0.000216	0.000159	0
+PDM-255	73	Female	White	Colon	Cecum	Stage IVC	GB	no	no	no	no	no	no	218	yes	1.88E-05	4.86E-05	0
+PDM-275	73	Female	White	Colon	Lymph node(s)	ungrouped	ungrouped	no	no	no	no	no	no	211	yes	0.000226	0.0015	0
+PDM-1	75	Male	White	Colon	Cecum	Stage I	G2	yes	no	yes	yes	no	no	191	no	0.00859	0.0232	1
+PDM-279	51	Male	Black	Colon	Cecum	Stage 0	GX	yes	yes	no	no	no	yes	173	no	0.000229	0.000135	0
+PDM-185	71	Male	White	Colon	Cecum	Stage IIA	G2	yes	no	yes	no	no	no	154	no	0.00933	0.0243	2
+PDM-191	56	Male	White	Rectum	Sigmoid Colon	Stage IIIC	GX	no	yes	no	yes	no	no	219	yes	0.000222	0.000249	0
+PDM-9	63	Male	Asian	Colon	Liver	Stage IVA	G2	yes	no	no	yes	no	no	139	no	0.00019	0.000245	0
+PDM-264 	67	Female	White	Rectosigmoid junction	Rectosigmoid junction	Stage IIIB	G2	yes	no	no	yes	no	no	203	no	0.000147	0.00187	0
+PDM-94	67	Male	White	Colon	Sigmoid colon	ungrouped	G2	yes	no	no	yes	yes	no	168	no	0.0111	0.0271	2
+PDM-356	58	Male	Unknown	Colon	Sigmoid colon	ungrouped	G2	yes	no	no	yes	no	no	151	no	0.000156	0.000116	0
+PDM-7	75	Male	Black or African American	Colon	Sigmoid colon	Stage IIIA	G2	yes	no	yes	yes	no	no	156	no	0.00941	0.0106	2
+PDM-257	53	Female	Unknown	Rectosigmoid junction	Rectosigmoid junction	Stage IIIB	G2	yes	no	yes	yes	yes	no	155	no	0.00832	0.0089	2
+PDM-363	72	Male	Unknown	Colon	Cecum	ungrouped	GX	yes	yes	no	yes	yes	yes	2701	no	0.00878	0.0429	2
+PDM-276	54	Male	Black or African American	Colon	Transverse colon	ungrouped	ungrouped	yes	no	yes	no	no	no	109	no	0.000965	0.000639	1
+PDM-277	76	Female	White	Colon	Lymph node(s)	Stage IVA	G2	yes	no	yes	yes	no	no	209	no	0.00899	0.0147	2
+PDM-359	64	Female	Unknown	Colon	Ascending colon	ungrouped	G2	yes	yes	no	no	no	yes	1502	no	0.00922	0.0119	2
+PDM-5	60	Female	White	Colon	Sigmoid colon	Stage IIIB	G2	yes	no	no	yes	no	no	131	no	0.000209	0.00227	0
+PDM-103	51	Female	Black or African American	Colon	Liver	ungrouped	ungrouped	yes	no	yes	yes	no	no	171	yes	0.0205	0.00813	2
+PDM-8	75	Male	Asian	Colon	Sigmoid colon	Stage IIA	G2	yes	no	no	yes	no	no	343	no	0.000106	0.000306	0
+PDM-95	61	Male	Black or African American	Colon	Sigmoid colon	Stage IIIB	GB	yes	no	no	yes	no	no	116	no	0.000219	0.000132	0
