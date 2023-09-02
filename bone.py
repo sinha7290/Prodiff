@@ -16940,22 +16940,6 @@ class MacAnalysis:
                     else None for i in range(len(atype))]
         self.initData(atype, atypes, ahash)
 
-    def getZarrinpar2021aging(self, tn=1, tb=1):
-        self.prepareData('AGE1')
-        atype = self.h.getSurvName("c Sample code")
-        ahash = {'D':0, 'BAT':1, 'TI':2, 'LIVER':3, 'WAT':4, 'SKM':5, 'CB':6, '':7}
-        tval = [ahash[i] if i in ahash else None for i in atype]
-        atype = self.h.getSurvName("c Sample code.1")
-        atypes = ['NCD', 'HFD']
-        ahash = {}
-        if (tn == 2):
-            atypes = ['ZT6-8', 'ZT9-12', 'ZT18-20', 'ZT21-24']
-            ahash = {'ZT6':0, 'ZT7':0, 'ZT8':0, 'ZT9':1, 'ZT10':1, 'ZT11':1, 'ZT12':1,
-                    'ZT18':2, 'ZT19':2, 'ZT20':2, 'ZT21':3, 'ZT22':3, 'ZT23':3, 
-                    'ZT24':3}
-            atype = [atype[i] if tval[i] == tb
-                    else None for i in range(len(atype))]
-        self.initData(atype, atypes, ahash)
 
     def getMelms2021CoV2snblk(self, tn=1, tb=1):
         self.prepareData('COV376')
