@@ -1,1 +1,1 @@
-Reinstatement of CDX2 as a differentiation therapy for colorectal cancers 
+CANDiT: A Machine Learning Framework for Differentiation Therapy in Colorectal Cancer
